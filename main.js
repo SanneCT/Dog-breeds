@@ -14,7 +14,6 @@ async function fetchDogs(breed) {
 	<h5 class="info">Personality traits: <br> <br> ${json[0].temperament}</h5>
 	<h5 class="info">Breed group: <br> <br>${json[0].breed_group}</h5>
 	<h5 class="info">Bred for: <br> <br>${json[0].bred_for}</h5>
-	<h5 class="info">Origin: <br> <br>${json[0].origin}</h5>
     `;
 };
 
