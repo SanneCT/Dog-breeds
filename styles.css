@@ -1,0 +1,45 @@
+body {
+    background-color: #C6D8D3;
+}
+
+.text-søk {
+    color: white;
+    text-align: center;
+    font-size: 250%;
+    font-family: 'Kalam', cursive;
+    padding: 2%;
+}
+
+.input {
+    background-color: #FDF0D5;
+    border-color: #FBE3B1;
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+    text-align: center;
+    padding: 6px 0px 6px 0px;
+}
+
+.icons {
+    text-align: center;
+}
+
+.fa-2x {
+    padding: 2% 4%;
+}
+
+.info-stor {
+    font-size: 250%;
+    padding-top: 0%;
+}
+
+.info {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    padding: 30px;
+    padding-top: 15px;
+}
+ 
+
+.icon-white {
+    color: white;
+}
