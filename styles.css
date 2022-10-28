@@ -43,3 +43,7 @@ body {
 .icon-white {
     color: white;
 }
+
+img {
+    height: 70%;
+}
